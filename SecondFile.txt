@@ -1,3 +1,4 @@
 Hello
 Hello
-Testing pull, fetch and merge
+Testing pull
+fetch and merge
