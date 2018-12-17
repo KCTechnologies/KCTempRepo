@@ -1,4 +1,8 @@
 Good morning
+<<<<<<< HEAD
 Hi
 testing rebase
 
+=======
+welcome to DevOps
+>>>>>>> parent of a1496e1... Revert "rebase test"
