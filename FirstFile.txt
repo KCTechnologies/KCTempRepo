@@ -1,12 +1,1 @@
 Good morning
-<<<<<<< HEAD
-Hi
-=======
-edited
-seconf edit
-third edit
-Fouth edit
-Fifth
-Hello
-PR test
->>>>>>> parent of 1e91688... revert test
